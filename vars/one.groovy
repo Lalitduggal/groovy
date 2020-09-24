@@ -24,5 +24,5 @@ def two(message){
 }
 
 def mft_app_server() {
-  /usr/local/bin/aws s3 ls
+  sh '/usr/local/bin/aws s3 ls'
 }
