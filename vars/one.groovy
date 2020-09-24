@@ -23,6 +23,6 @@ def two(message){
   echo "The message is: ${message}"
 }
 
-def mft-app-server() {
-  echo "This is mft-app-server-cf-template" 
+def mft_app_server() {
+  aws s3 ls
 }
