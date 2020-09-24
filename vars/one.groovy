@@ -17,3 +17,8 @@ def one(){
       ]
    ])
 }
+
+
+def two(message){
+  echo "The message is: ${message}"
+}
