@@ -24,5 +24,5 @@ def two(message){
 }
 
 def mft_app_server() {
-  sh 'aws cloudformation list-stacks'
+  sh '/usr/local/bin/aws cloudformation list-stacks'
 }
