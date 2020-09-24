@@ -15,5 +15,5 @@ def one(){
           url: 'https://github.com/Lalitduggal/groovy.git'
         ]
       ]
-   ]
+   ])
 }
