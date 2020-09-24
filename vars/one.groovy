@@ -23,6 +23,6 @@ def two(message){
   echo "The message is: ${message}"
 }
 
-def mftappserver() {
+def mft_app_server() {
   echo "This is mft-app-server-cf-template" 
 }
